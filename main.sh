@@ -1,4 +1,4 @@
-echo "Enter Name: "
+echo -n "Enter Name: "
 read name
 echo "Your name is: $name"
 
